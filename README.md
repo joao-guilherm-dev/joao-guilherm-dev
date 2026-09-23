@@ -45,19 +45,19 @@
 <div align="center">
 
 <a href="https://github.com/joao-guilherm-dev/sentinel-ops-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-guilherm-dev&repo=sentinel-ops-toolkit&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=joao-guilherm-dev&repo=sentinel-ops-toolkit&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
 </a>
 <a href="https://github.com/joao-guilherm-dev/API_USUARIOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-guilherm-dev&repo=API_USUARIOS&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=joao-guilherm-dev&repo=API_USUARIOS&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
 </a>
 <a href="https://github.com/joao-guilherm-dev/gestor-ti-etl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-guilherm-dev&repo=gestor-ti-etl&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=joao-guilherm-dev&repo=gestor-ti-etl&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
 </a>
 <a href="https://github.com/joao-guilherm-dev/driftdetector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-guilherm-dev&repo=driftdetector&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=joao-guilherm-dev&repo=driftdetector&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
 </a>
 <a href="https://github.com/joao-guilherm-dev/stock-analyzer-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joao-guilherm-dev&repo=stock-analyzer-python&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=joao-guilherm-dev&repo=stock-analyzer-python&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92" />
 </a>
 
 </div>
@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joao-guilherm-dev&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-guilherm-dev&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF2E92&text_color=FFFFFF&border_color=FF2E92&hide_border=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=joao-guilherm-dev&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF2E92&icon_color=FF2E92&text_color=FFFFFF&border_color=FF2E92&hide_border=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joao-guilherm-dev&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF2E92&text_color=FFFFFF&border_color=FF2E92&hide_border=false" />
 
 <img src="https://streak-stats.demolab.com/?user=joao-guilherm-dev&theme=dark&background=0D0D0D&stroke=FF2E92&ring=FF2E92&fire=FF2E92&currStreakLabel=FF2E92&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=FF2E92" />
 
