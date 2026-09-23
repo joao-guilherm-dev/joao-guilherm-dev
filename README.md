@@ -77,11 +77,13 @@
 
 <br>
 
+<br>
+
 ## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-guilherm-dev&theme=react-dark&bg_color=0D0D0D&color=FF2E92&line=FF2E92&point=FFFFFF&area=true&area_color=FF2E92&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-guilherm-dev&theme=react-dark" width="100%" />
 
 </div>
 
@@ -91,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joao-guilherm-dev&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=joao-guilherm-dev" />
 
 </div>
 
